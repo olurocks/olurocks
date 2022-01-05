@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: olurocks1@gmail.com
 
- `@OSSDAO-ORG•AIRDROP-0xF4F753DC13cec3E678208Ef130cDb3e983e2A922
 
 
 <!---
