@@ -1,7 +1,8 @@
 Olurocks
-Python enthusiast
 
-reach me on gmail @olusameze@gmail.com
+*Python enthusiast
+
+*reach me at gmail @olusameze@gmail.com
 
 
 
