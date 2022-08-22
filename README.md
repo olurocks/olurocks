@@ -2,7 +2,7 @@ Olurocks
 
 *Python enthusiast
 
-*reach me at gmail @olusameze@gmail.com
+*reach me at olusameze@gmail.com
 
 
 
