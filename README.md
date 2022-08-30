@@ -1,8 +1,5 @@
 Olurocks
 
-*Python enthusiast
-
-*reach me at olusameze@gmail.com
 
 
 
