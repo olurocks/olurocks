@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing majorly to backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on Codewars and hackerrank
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olurocks)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-olurocks-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olurocks)
 
 ---
 
